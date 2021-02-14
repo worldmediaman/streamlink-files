@@ -9,13 +9,6 @@ opkg install enigma2-plugin-systemplugins-serviceapp
 echo ""
 echo "    ***  START Streamlink[-27] INSTALLATION  ***"
 
-opkg remove python-streamlink
-curl https://github.com/PURE2-Team/3rdparty-plugins/raw/master/python-streamlink_1.27.1.0.r0_mod_all.ipk -Lko /tmp/python-streamlink_1.27.1.0.r0_mod_all.ipk > /dev/null
-opkg --force-overwrite install /tmp/python-streamlink_1.27.1.0.r0_mod_all.ipk
-opkg install --force-reinstall --force-depends /tmp/python-streamlink_1.27.1.0.r0_mod_all.ipk
-
-
-
 curl https://github.com/worldmediaman/streamlink-files/raw/main/Files/python-iso3166_0.9_all.ipk -Lko /tmp/python-iso3166_0.9_all.ipk > /dev/null
 opkg --force-overwrite install /tmp/python-iso3166_0.9_all.ipk 
 opkg install --force-reinstall --force-depends /tmp/python-iso3166_0.9_all.ipk 
@@ -28,17 +21,30 @@ curl https://github.com/worldmediaman/streamlink-files/raw/main/Files/python-iso
 opkg --force-overwrite install /tmp/python-isodate_0.6.0_all.ipk 
 opkg install --force-reinstall --force-depends /tmp/python-isodate_0.6.0_all.ipk 
 
+curl https://github.com/worldmediaman/streamlink-files/raw/main/Files/python-singledispatch_3.4.0.3-r0_mips32el.ipk -Lko /tmp/python-singledispatch_3.4.0.3-r0_mips32el.ipk  > /dev/null
+opkg --force-overwrite install /tmp/python-singledispatch_3.4.0.3-r0_mips32el.ipk
+opkg install --force-reinstall --force-depends /tmp/python-singledispatch_3.4.0.3-r0_mips32el.ipk
 
+curl https://github.com/worldmediaman/streamlink-files/raw/main/Files/python-websocket-client_0.57.0_all.ipk -Lko /tmp/python-websocket-client_0.57.0_all.ipk  > /dev/null
+opkg --force-overwrite install /tmp/python-websocket-client_0.57.0_all.ipk
+opkg install --force-reinstall --force-depends /tmp/python-websocket-client_0.57.0_all.ipk
 
+curl https://github.com/worldmediaman/streamlink-files/raw/main/Files/singledispatch-3.4.0.3-r0.ipk -Lko /tmp/singledispatch-3.4.0.3-r0.ipk  > /dev/null
+opkg --force-overwrite install /tmp/singledispatch-3.4.0.3-r0.ipk
+opkg install --force-reinstall --force-depends /tmp/singledispatch-3.4.0.3-r0.ipk
 
+curl https://github.com/worldmediaman/streamlink-files/raw/main/Files/futures-2.1.6-r0__all.ipk -Lko /tmp/futures-2.1.6-r0__all.ipk  > /dev/null
+opkg --force-overwrite install /tmp/futures-2.1.6-r0__all.ipk
+opkg install --force-reinstall --force-depends /tmp/futures-2.1.6-r0__all.ipk
 
+curl https://github.com/worldmediaman/streamlink-files/raw/main/Files/streamlinksrv_1.5.0_all.ipk
+ -Lko /tmp/streamlinksrv_1.5.0_all.ipk > /dev/null
+opkg --force-overwrite install /tmp/streamlinksrv_1.5.0_all.ipk
+opkg install --force-reinstall --force-depends /tmp/streamlinksrv_1.5.0_all.ipk
 
-
-
-
-
-
-
+curl https://github.com/worldmediaman/streamlink-files/raw/main/Files/python-streamlink_1.27.1.0.r0_mod_all.ipk -Lko /tmp/python-streamlink_1.27.1.0.r0_mod_all.ipk > /dev/null
+opkg --force-overwrite install /tmp/python-streamlink_1.27.1.0.r0_mod_all.ipk
+opkg install --force-reinstall --force-depends /tmp/python-streamlink_1.27.1.0.r0_mod_all.ipk
 
 
 echo ""
