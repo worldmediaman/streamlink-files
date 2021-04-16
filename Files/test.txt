@@ -1,6 +1,0 @@
- 	<sourcecat sourcecatname="TURKEY">
- 		<source type="gen_xmltv" channels="/etc/epgimport/custom.channels-tr.xml">
-			<description>TR (xz)</description>		
-  	<url>https://github.com/epgshare01/share01/raw/master/epg_ripper_TR1.xml.gz</url>
-		</source>			
-	</sourcecat>
