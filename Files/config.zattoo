@@ -1,6 +1,0 @@
-zattoo-email=MEINE@mail.xx
-zattoo-password=MEINPasswort
-zattoo-stream-types hls7
-ffmpeg-copyts
-hls-audio-select *
-zattoo-purge-credentials
