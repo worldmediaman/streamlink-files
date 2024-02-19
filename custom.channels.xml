@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="utf-8"?>
+<channels>
+
+<channel id="360.HD.tr">5002:0:1:7000:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="360.HD.tr">1:0:1:413D:A2E7:42E:1A40000:0:0:0:</channel><!-- -->
+<channel id="A2.HD.tr">1:0:1:4012:9E38:42E:1A40000:0:0:0:</channel><!-- -->
+<channel id="A2.HD.tr">5002:0:1:7001:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="A.Haber.HD.tr">1:0:1:28A1:9CA6:42E:1A40000:0:0:0:</channel><!-- -->
+<channel id="A.Haber.HD.tr">5002:0:1:7002:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="A.Spor.HD.tr">5002:0:1:7003:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="A.Para.HD.tr">1:0:1:4011:9E38:42E:1A40000:0:0:0:</channel><!-- --> 
+<channel id="A.Para.HD.tr">5002:0:1:7049:0:0:0:0:0:0:http%3a//</channel><!-- --> 
+<channel id="ATV.HD.tr">5002:0:1:7004:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="BEYAZ.TV.HD.tr">5002:0:1:7005:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="BEYAZ.TV.HD.tr">1:0:19:C801:A3AE:42E:1A40000:0:0:0:</channel><!-- -->
+<channel id="Bloomberg.HT.HD.tr">1:0:1:2BC1:7DC9:42E:1A40000:0:0:0:</channel><!-- -->
+<channel id="Bloomberg.HT.HD.tr">5002:0:1:7006:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="CNN.tr">1:0:1:515:3:42:1A40000:0:0:0:</channel><!-- -->
+<channel id="CNN.tr">5002:0:1:7007:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="Discovery.Channel.HD.tr">1:0:1:44C:1:5E:300000:0:0:0:</channel><!-- -->
+<channel id="Discovery.Science.HD.tr">1:0:1:5DC:1:5E:300000:0:0:0:</channel><!-- -->
+<channel id="Disney.Channel.tr">5002:0:1:7008:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="Diyanet.TV.HD.tr">1:0:19:C803:A3AE:42E:1A40000:0:0:0:</channel><!-- -->
+<channel id="Diyanet.TV.HD.tr">5002:0:1:7009:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="DMAX.HD.tr">5002:0:1:7010:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="FB.TV.HD.tr">1:0:1:C60D:A3AD:42E:1A40000:0:0:0:</channel><!-- -->
+<channel id="FB.TV.HD.tr">5002:0:1:7011:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="FOX.HD.tr">5002:0:1:7012:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="GS.TV.HD.tr">5002:0:1:7013:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="HABER.GLOBAL.HD.tr">1:0:19:CA6B:7B0E:42E:1A40000:0:0:0:</channel><!-- -->
+<channel id="HABER.GLOBAL.HD.tr">5002:0:1:7014:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="HABERTURK.HD.tr">1:0:1:2BC0:7DC9:42E:1A40000:0:0:0:</channel><!-- --> 
+<channel id="HABERTURK.HD.tr">5002:0:1:7015:0:0:0:0:0:0:http%3a//</channel><!-- --> 
+<channel id="KANAL.7.HD.tr">5002:0:1:7016:0:0:0:0:0:0:http%3a//</channel><!-- --> 
+<channel id="KANAL.24.HD.tr">1:0:1:413C:A2E7:42E:1A40000:0:0:0:</channel><!-- --> 
+<channel id="KANAL.24.HD.tr">5002:0:1:7017:0:0:0:0:0:0:http%3a//</channel><!-- --> 
+<channel id="Kanal.D.HD.tr">5002:0:1:7018:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="MinikaGO.tr">5002:0:1:7019:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="NTV.HD.tr">5002:0:1:7020:0:0:0:0:0:0:http%3a//</channel><!-- --> 
+<channel id="Show.TV.HD.tr">5002:0:1:7021:0:0:0:0:0:0:http%3a//</channel><!-- --> 
+<channel id="Star.TV.HD.tr">5002:0:1:7022:0:0:0:0:0:0:http%3a//</channel><!-- --> 
+<channel id="Teve2.HD.tr">1:0:1:517:3:42:1A40000:0:0:0:</channel><!-- -->
+<channel id="Teve2.HD.tr">5002:0:1:7023:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="TGRT.Haber.HD.tr">1:0:19:CA72:7B0E:42E:1A40000:0:0:0:</channel><!-- --> 
+<channel id="TGRT.Haber.HD.tr">5002:0:1:7024:0:0:0:0:0:0:http%3a//</channel><!-- -->  
+<channel id="TLC.HD.tr">5002:0:1:7025:0:0:0:0:0:0:http%3a//</channel><!-- --> 
+<channel id="TRT.1.HD.tr">1:0:19:2969:7919:42E:1A40000:0:0:0:</channel><!-- --> 
+<channel id="TRT.1.HD.tr">5002:0:1:7026:0:0:0:0:0:0:http%3a//</channel><!-- --> 
+<channel id="TRT.2.HD.tr">1:0:19:290A:9D6D:42E:1A40000:0:0:0:</channel><!-- --> 
+<channel id="TRT.2.HD.tr">5002:0:1:7027:0:0:0:0:0:0:http%3a//</channel><!-- --> 
+<channel id="TRT.3.-.TRT.Spor.tr">1:0:1:2907:9D6D:42E:1A40000:0:0:0:</channel><!-- --> 
+<channel id="TRT.3.-.TRT.Spor.tr">5002:0:1:7028:0:0:0:0:0:0:http%3a//</channel><!-- --> 
+<channel id="TRTAVAZ.tr">1:0:19:15:3D:2A:1A40000:0:0:0:</channel><!-- --> 
+<channel id="TRTAVAZ.tr">5002:0:1:7030:0:0:0:0:0:0:http%3a//</channel><!-- --> 
+<channel id="TRT.Belgesel.HD.tr">1:0:19:296C:7919:42E:1A40000:0:0:0:</channel><!-- --> 
+<channel id="TRT.Belgesel.HD.tr">5002:0:1:7030:0:0:0:0:0:0:http%3a//</channel><!-- --> 
+<channel id="TRTCocuk.tr">1:0:19:2968:7919:42E:1A40000:0:0:0:</channel><!-- --> 
+<channel id="TRTCocuk.tr">5002:0:1:7031:0:0:0:0:0:0:http%3a//</channel><!-- --> 
+<channel id="TRT.EBATV.ILKOKUL.HD.tr">1:0:1:C865:9CA5:42E:1A40000:0:0:0:</channel><!-- -->  
+<channel id="TRT.EBATV.ILKOKUL.HD.tr">5002:0:1:7033:0:0:0:0:0:0:http%3a//</channel><!-- -->  
+<channel id="TRT.EBATV.ORTAOKUL.HD.tr">1:0:1:C866:9CA5:42E:1A40000:0:0:0:</channel><!-- --> 
+<channel id="TRT.EBATV.ORTAOKUL.HD.tr">5002:0:1:7034:0:0:0:0:0:0:http%3a//</channel><!-- --> 
+<channel id="TRT.EBATV.LISE.HD.tr">1:0:1:C867:9CA5:42E:1A40000:0:0:0:</channel><!-- --> 
+<channel id="TRT.EBATV.LISE.HD.tr">5002:0:1:7034:0:0:0:0:0:0:http%3a//</channel><!-- --> 
+<channel id="TRT.Haber.HD.tr">1:0:19:296A:7919:42E:1A40000:0:0:0:</channel><!-- --> 
+<channel id="TRT.Haber.HD.tr">5002:0:1:7035:0:0:0:0:0:0:http%3a//</channel><!-- --> 
+<channel id="TRT.SPOR.HD.tr">1:0:19:296B:7919:42E:1A40000:0:0:0:</channel><!-- --> 
+<channel id="TRT.SPOR.HD.tr">5002:0:1:7037:0:0:0:0:0:0:http%3a//</channel><!-- --> 
+<channel id="TRT.Spor.2.HD.tr">1:0:19:291D:9D6D:42E:1A40000:0:0:0:</channel><!-- --> 
+<channel id="TRT.Spor.2.HD.tr">5002:0:1:7038:0:0:0:0:0:0:http%3a//</channel><!-- --> 
+<channel id="TRT.Muzik.tr">1:0:19:2970:7919:42E:1A40000:0:0:0:</channel><!-- --> 
+<channel id="TRT.Muzik.tr">5002:0:1:7036:0:0:0:0:0:0:http%3a//</channel><!-- --> 
+<channel id="TRT.TURK.tr">1:0:19:296E:7919:42E:1A40000:0:0:0:</channel><!-- --> 
+<channel id="TRT.TURK.tr">5002:0:1:7039:0:0:0:0:0:0:http%3a//</channel><!-- --> 
+<channel id="TV.100.HD.tr">1:0:1:4011:9E38:42E:1A40000:0:0:0:</channel><!-- --> 
+<channel id="TV.100.HD.tr">5002:0:1:7040:0:0:0:0:0:0:http%3a//</channel><!-- --> 
+<channel id="TV8.HD.tr">5002:0:1:7041:0:0:0:0:0:0:http%3a//</channel><!-- --> 
+<channel id="TVNET.HD.tr">1:0:1:30D4:A155:42E:1A40000:0:0:0:</channel><!-- --> 
+<channel id="TVNET.HD.tr">5002:0:1:7042:0:0:0:0:0:0:http%3a//</channel><!-- --> 
+<channel id="Ucan.Kus.TV.tr">5002:0:1:703:0:0:0:0:0:0:http%3a//</channel><!-- --> 
+<channel id="Ulke.TV.HD.tr">5002:0:1:7044:0:0:0:0:0:0:http%3a//</channel><!-- --> 
+<channel id="Yaban.TV.tr">5002:0:1:7045:0:0:0:0:0:0:http%3a//</channel><!-- --> 
+<channel id="beIN.SPORTS.HABER.HD.tr">5002:0:1:7046:0:0:0:0:0:0:http%3a//</channel><!-- --> 
+<channel id="ALEM.FM.tr">5002:0:1:7047:0:0:0:0:0:0:http%3a//</channel><!-- --> 
+<channel id="Best.FM.tr">5002:0:1:7048:0:0:0:0:0:0:http%3a//</channel><!-- --> 
+<channel id="Kral.FM.tr">5002:0:1:7050:0:0:0:0:0:0:http%3a//</channel><!-- --> 
+<channel id="Kral.Pop.Radyo.tr">5002:0:1:7051:0:0:0:0:0:0:http%3a//</channel><!-- --> 
+<channel id="SSport.tr">5002:0:1:7052:0:0:0:0:0:0:http%3a//</channel><!-- --> 
+
+<channel id="beIN.SPORTS.XTRA.us">4097:0:1:4998:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD --> 
+
+<channel id="Hamburg1.de">5002:0:1:4999:0:0:0:0:0:0:http%3a//</channel><!--  Hamburg 1 HD -->
+
+<channel id="ARD.de">5002:0:1:5999:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="ZDF.de">5002:0:1:6001:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="ndr.de">5002:0:1:6002:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="Kabel1.ch">5002:0:1:6003:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="Vox.ch">5002:0:1:6004:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="Pro7.ch">5002:0:1:6005:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="Sat1.ch">5002:0:1:6006:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="RTL.ch">5002:0:1:6007:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="RTL2.de">5002:0:1:6008:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="RTLNitro.de">5002:0:1:6009:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="ProSiebenMaxx.de">5002:0:1:6010:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="Tele5.de">5002:0:1:6011:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="One.de">5002:0:1:6012:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="ZDFneo.de">5002:0:1:6013:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="3sat.de">5002:0:1:6014:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="ARTE.de">5002:0:1:6015:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="Servustv.de">5002:0:1:6016:0:0:0:0:0:0:http%3a//</channel><!-- -->
+
+<channel id="ORF1.at">4097:0:1:6017:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="ORF2.at">4097:0:1:6018:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="ORF3.at">4097:0:1:6019:0:0:0:0:0:0:http%3a//</channel><!-- -->
+
+<channel id="SRF1.ch">5002:0:1:6020:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="SRF2.ch">5002:0:1:6021:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="Puls8.ch">5002:0:1:6022:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="3plus.ch">5002:0:1:6023:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="4plus.ch">5002:0:1:6024:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="5plus.ch">5002:0:1:6025:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="6plus.ch">5002:0:1:6026:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="TV24.ch">5002:0:1:6027:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="TV25.ch">5002:0:1:6028:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="StarTV.ch">5002:0:1:6029:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="S1.ch">5002:0:1:6030:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="Swiss1.ch">5002:0:1:6031:0:0:0:0:0:0:http%3a//</channel><!-- -->
+
+<channel id="rbbBerlin.de">5002:0:1:6032:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="MDRS-Anhalt.de">5002:0:1:6033:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="WDR.de">5002:0:1:6034:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="HR.de">5002:0:1:6035:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="BR.de">5002:0:1:6036:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="SWR.de">5002:0:1:6037:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="SRFernsehen.de">5002:0:1:6038:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="RadioBremen.de">5002:0:1:6039:0:0:0:0:0:0:http%3a//</channel><!-- -->
+
+<channel id="disneychannel.de">5002:0:1:6040:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="SuperRTL.de">5002:0:1:6041:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="Kika.de">5002:0:1:6042:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="ric.at">5002:0:1:6043:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="Nickelodeon.de">5002:0:1:6044:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="TOGGOplus.de">5002:0:1:6045:0:0:0:0:0:0:http%3a//</channel><!-- -->
+
+<channel id="Sport1HD.de">5002:0:1:6046:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="Eurosport1.de">5002:0:1:6047:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="SkySportNewsHD.de">5002:0:1:6048:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="TeleclubZoomD.ch">5002:0:1:6049:0:0:0:0:0:0:http%3a//</channel><!-- -->
+
+<channel id="DMax.de">5002:0:1:6050:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="KabelEinsDoku.de">5002:0:1:6051:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="N24Doku.de">5002:0:1:6052:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="ARD-alpha.de">5002:0:1:6053:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="Health.de">5002:0:1:6054:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="HGTV.de">5002:0:1:6055:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="WeltDerWunder.de">5002:0:1:6056:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="ZDFinfo.de">5002:0:1:6057:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="phoenix.de">5002:0:1:6058:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="TLC.de">5002:0:1:6059:0:0:0:0:0:0:http%3a//</channel><!-- -->
+
+<channel id="tagesschau24.de">5002:0:1:6060:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="DeutscheWelleDE.de">5002:0:1:6061:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="ntv.de">5002:0:1:6062:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="WELT.de">5002:0:1:6063:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="SRFinfo.ch">5002:0:1:6064:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="EuronewsDE.nws">http%3a//</channel><!-- -->
+
+<channel id="BBC1London.uk">5002:0:1:6066:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="BBC2Wales.uk">5002:0:1:6067:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="ITV1London.uk">5002:0:1:6068:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="ITV2.uk">5002:0:1:6069:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="ITV3.uk">5002:0:1:6070:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="ITV4.uk">5002:0:1:6071:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="ITVBe.uk">5002:0:1:6072:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="E4.uk">5002:0:1:6073:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="More4.uk">5002:0:1:6074:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="Film4.uk">5002:0:1:6075:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="Channel4.uk">5002:0:1:6076:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="Channel5.uk">5002:0:1:6077:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="4Seven.uk">5002:0:1:6078:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="FiveUSA.uk">5002:0:1:6079:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="5select.uk">5002:0:1:6080:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="Drama.uk">5002:0:1:6081:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="PickSky.uk">5002:0:1:6082:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="Dave.uk">5002:0:1:6083:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="TravelChannel.uk">5002:0:1:6084:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="Paramount.uk">5002:0:1:6085:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="FreeSports.uk">5002:0:1:6086:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="Yesterday.uk">5002:0:1:6087:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="Challenge.uk">5002:0:1:6088:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="PBS.uk">5002:0:1:6089:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="S4C.uk">5002:0:1:6091:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="CBeebies.uk">5002:0:1:6092:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="BBC3.uk">5002:0:1:6093:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="BBC4.uk">5002:0:1:6094:0:0:0:0:0:0:http%3a//</channel><!-- -->
+
+<channel id="RTSUn.ch">5002:0:1:6095:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="RTSDeux.ch">5002:0:1:6096:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="M6.fr">5002:0:1:6097:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="W9.ch">5002:0:1:6098:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->
+<channel id="TF1.fr">5002:0:1:6099:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->
+<channel id="TF1SeriesFilms.fr">5002:0:1:6099:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->
+<channel id="C8.fr">5002:0:1:6100:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->
+<channel id="CStar.fr">5002:0:1:6101:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->
+<channel id="lfmtv.fr">5002:0:1:6102:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->
+<channel id="onetv.ch">5002:0:1:6103:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->
+<channel id="TF1.fr">5002:0:1:6104:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->
+<channel id="TFX.fr">5002:0:1:6105:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->
+<channel id="TFX.fr">5002:0:1:6105:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->
+<channel id="6ter.fr">5002:0:1:6106:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->
+<channel id="TMC.fr">5002:0:1:6107:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->
+<channel id="NRJ12.fr">5002:0:1:6108:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->
+<channel id="France2.fr">5002:0:1:6109:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->
+<channel id="France3.fr">5002:0:1:6110:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->
+<channel id="France4.fr">5002:0:1:6111:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->
+<channel id="France5.fr">5002:0:1:6112:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->
+<channel id="Cherie25.fr">5002:0:1:6113:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->
+<channel id="RMCStory.fr">5002:0:1:6114:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->
+<channel id="RMCdecouverte.fr">5002:0:1:6115:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->
+<channel id="LemanBleu.ch">5002:0:1:6116:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->
+<channel id="ARTE.fr">5002:0:1:6117:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->
+<channel id="rougetv.fr">5002:0:1:6118:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->
+<channel id="LaTele.ch">5002:0:1:6119:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->
+<channel id="Canal9.ch">5002:0:1:6120:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->´
+<channel id="TV5MondeEurope.fr">5002:0:1:6121:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->´
+<channel id="TV5MondeFBS.fr">5002:0:1:6122:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->´
+<channel id="Gulli.fr">5002:0:1:6123:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->´
+<channel id="CartoonNetwork.fr">5002:0:1:6124:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->´
+<channel id="TeleclubZoomF.ch">5002:0:1:6125:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->´
+<channel id="EquipeTV.fr">5002:0:1:6126:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->´
+<channel id="LCI.fr">5002:0:1:6127:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->´
+<channel id="i24News.fr">5002:0:1:6128:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->´
+<channel id="CNews.fr">5002:0:1:6129:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->´
+<channel id="EuronewsFR.nws">5002:0:1:6130:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->´
+<channel id="France24fr.fr">5002:0:1:6131:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->´
+<channel id="Franceinfo.fr">5002:0:1:6132:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->´
+<channel id="TV8MontBlanc.fr">5002:0:1:6133:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->´
+<channel id="BVN.be">5002:0:1:6134:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->´
+<channel id="BFMTV.fr">5002:0:1:6135:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->´
+<channel id="KTO.fr">5002:0:1:6136:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->´
+<channel id=" ">5002:0:1:6137:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->´
+<channel id="BeCuriousTV.ch">5002:0:1:6138:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->´
+<channel id="CanalAlphaJU.ch">5002:0:1:6139:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->´
+
+
+
+<channel id="ITV1London.uk">4097:0:1:1200:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->
+<channel id="ITV2.uk">4097:0:1:1201:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->
+<channel id="ITV3.uk">4097:0:1:1202:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->
+<channel id="ITV4.uk">4097:0:1:1203:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->
+<channel id="BBCOneHD.uk">4097:0:1:1204:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->
+<channel id="e4.uk">4097:0:1:1205:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->
+<channel id="film4.uk">4097:0:1:1206:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->
+<channel id="4seven.uk">4097:0:1:1207:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->
+<channel id="More4.uk">4097:0:1:1208:0:0:0:0:0:0:http%3a//<!-- S1  HD -->
+<channel id="channel4.uk">4097:0:1:1209:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->
+<channel id="channel5.uk">4097:0:1:1210:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->
+<channel id="5select.uk">4097:0:1:1211:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->
+<channel id="FiveUSA.uk">4097:0:1:1212:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->
+<channel id="PickTV.uk">4097:0:1:1213:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->
+<channel id="FoodNetwork.uk">4097:0:1:1214:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->
+<channel id="Challenge.uk">4097:0:1:1215:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->
+<channel id="S4C.uk">4097:0:1:1216:0:0:0:0:0:0:http%3a//<!-- S1  HD -->
+<channel id="FreeSports.uk">4097:0:1:1217:0:0:0:0:0:0:http%3a//<!-- S1  HD -->
+<channel id="paramount-network.uk">4097:0:1:1218:0:0:0:0:0:0:http%3a//<!-- S1  HD -->
+<channel id="BBC2.uk">4097:0:1:1219:0:0:0:0:0:0:http%3a//<!-- S1  HD -->
+<channel id="BBC4.uk">4097:0:1:1220:0:0:0:0:0:0:http%3a//<!-- S1  HD -->
+<channel id="PBS.uk">4097:0:1:1220:0:0:0:0:0:0:http%3a//<!-- S1  HD -->
+<channel id="travel-channel-uk.uk">4097:0:1:1220:0:0:0:0:0:0:http%3a//<!-- S1  HD -->
+
+<channel id="BBCOneHD.uk">5002:0:1:1051:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->
+<channel id="BBC2.uk">5002:0:1:1052:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->
+<channel id="ITV1London.uk">5002:0:1:1055:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->
+<channel id="ITV1LondonPlus1.uk">5002:0:1:1056:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->
+<channel id="ITV2plus1.uk">5002:0:1:1057:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->
+<channel id="ITV3.uk">5002:0:1:1058:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->
+<channel id="ITV3plus1.uk">5002:0:1:1059:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->
+<channel id="ITV4.uk">5002:0:1:1060:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->
+<channel id="ITV4plus1.uk">5002:0:1:1061:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->
+<channel id="ITVBe.uk">5002:0:1:1062:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->
+<channel id="channel4.uk">5002:0:1:1063:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->
+<channel id="e4.uk">5002:0:1:1064:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->
+<channel id="More4.uk">5002:0:1:1065:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->
+<channel id="channel5.uk">5002:0:1:1066:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->
+<channel id="5star.uk">5002:0:1:1067:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->
+<channel id="FiveUSA.uk">5002:0:1:1068:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->
+<channel id="CBeebies.uk">5002:0:1:1070:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->
+<channel id="CBSDrama.uk">5002:0:1:1071:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->
+<channel id="CBSJustice.uk">5002:0:1:1072:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->
+<channel id="CBSReality.uk">5002:0:1:1073:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->
+<channel id="Drama.uk">5002:0:1:1099:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->
+<channel id="Really.uk">5002:0:1:1098:0:0:0:0:0:0:http%3a//</channel><!-- S1  HD -->
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+<channel id="Hamburg1.de">5002:0:1:4999:0:0:0:0:0:0:http%3a//</channel><!--  Hamburg 1 HD -->
+
+<channel id="5c5c3b948002db3c3e0b262e">5002:0:1:50012:0:0:0:0:0:0:http%3a//</channel><!--  -->
+<channel id="mtv-catfish-tv-show-de">5002:0:1:5002:0:0:0:0:0:0:http%3a//</channel><!--   -->
+<channel id="mtv-cribs-de">5002:0:1:5003:0:0:0:0:0:0:http%3a//</channel><!--   -->
+<channel id="mtv-dating-de">5002:0:1:5004:0:0:0:0:0:0:http%3a//</channel><!--   -->
+<channel id="mtv-dating-de">5002:0:1:5004:0:0:0:0:0:0:http%3a//</channel><!--   -->
+<channel id="mtv-teen-mom-de">5002:0:1:5005:0:0:0:0:0:0:http%3a//</channel><!--   -->
+<channel id="mtv-the-hills-de">5002:0:1:5006:0:0:0:0:0:0:http%3a//</channel><!--   -->
+<channel id="mtv-the-shores-de">5002:0:1:5007:0:0:0:0:0:0:http%3a//</channel><!--   -->
+<channel id="mtv-ridiculousness-de">5002:0:1:5008:0:0:0:0:0:0:http%3a//</channel><!--   -->
+<channel id="pluto-tv-paranormal-de">5002:0:1:5009:0:0:0:0:0:0:http%3a//</channel><!--  --> 
+<channel id="focus-tv-reportage-de">5002:0:1:5010:0:0:0:0:0:0:http%3a//</channel><!--  -->
+<channel id="beat-club-de">5002:0:1:5011:0:0:0:0:0:0:http%3a//</channel><!--  -->
+
+<channel id="pluto-tv-comedy-de">5002:0:1:5012:0:0:0:0:0:0:http%3a//</channel><!--   -->
+<channel id="pluto-tv-drama-de">5002:0:1:5013:0:0:0:0:0:0:http%3a//</channel><!--   -->
+<channel id="pluto-tv-indies-de">5002:0:1:5014:0:0:0:0:0:0:http%3a//</channel><!--   -->
+<channel id="pluto-tv-movies-de-1">5002:0:1:5015:0:0:0:0:0:0:http%3a//</channel><!-- -->
+<channel id="pluto-tv-retro-drama-de">5002:0:1:5016:0:0:0:0:0:0:http%3a//</channel><!--  -->
+<channel id="pluto-tv-thrillers-de">5002:0:1:5017:0:0:0:0:0:0:http%3a//</channel><!--  -->
+<channel id="the-asylum-channel-de">5002:0:1:5018:0:0:0:0:0:0:http%3a//</channel><!--  --> 
+<channel id="pluto-tv-romance-de">5002:0:1:5019:0:0:0:0:0:0:http%3a//</channel><!--  -->
+<channel id="pluto-tv-crime-de">5002:0:1:5020:0:0:0:0:0:0:http%3a//</channel><!--  -->
+<channel id="being-human-de">5002:0:1:5021:0:0:0:0:0:0:http%3a//</channel><!--  -->
+<channel id="sanctuary-de">5002:0:1:5022:0:0:0:0:0:0:http%3a//</channel><!--  -->
+<channel id="dark-matter-de">5002:0:1:5023:0:0:0:0:0:0:http%3a//</channel><!--  -->
+
+
+</channels>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
